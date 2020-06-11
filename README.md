@@ -1,7 +1,7 @@
 
 ## JSMN
 
-Jsmn is a world fastest JSON parser/tokenizer.
+jsmn (pronounced like 'jasmine') is a minimalistic JSON parser in C.
 
 License: MIT license.
 
