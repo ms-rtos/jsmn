@@ -6,7 +6,7 @@
  *
  * File: ms_jsmn.c JSON parser.
  *
- * Author: Jiao.jinxing <jiaojixing@acoinfo.com>
+ * Author: Jiao.jinxing <jiaojinxing@acoinfo.com>
  *
  */
 
